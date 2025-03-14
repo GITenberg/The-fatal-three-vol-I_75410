@@ -1,0 +1,43 @@
+_repo: The-fatal-three-vol-I_75410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - White, Babington
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - Braddon, Mary E.
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75410'
+language: en
+pgterms:marc904: https://archive.org/details/fatalthreenovel01brad
+pgterms:marc905: 20201014120821braddon
+pgterms:marc906: '1888'
+pgterms:marc907: gb
+production_note: Bob Taylor, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bSimpkin, Marshall, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The fatal three, vol. I
+url: http://www.gutenberg.org/ebooks/75410
